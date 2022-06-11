@@ -1,6 +1,6 @@
 # Jogo da Memória
 
-Esse projeto foi desenvolvido com intuito de colocar em prática os conhecimentos obtidos no basecamp JavaScrip da Digital Innovation One.
+Esse projeto foi desenvolvido com intuito de colocar em prática os conhecimentos obtidos no basecamp Javascript da Digital Innovation One.
 
 ## Descrição
 
